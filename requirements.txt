@@ -1,0 +1,7 @@
+pandas
+pytorch
+pillow
+torch
+torch-geometric
+numpy
+opencv-python-headless
